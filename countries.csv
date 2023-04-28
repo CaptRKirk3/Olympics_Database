@@ -1,0 +1,139 @@
+country_id,country_code,country
+1,HUN,Hungary
+2,AUT,Austria
+3,GRE,Greece
+4,USA,United States of America
+5,GER,Germany
+6,GBR,Great Britain
+7,FRA,France
+8,AUS,Australia
+9,DEN,Denmark
+10,SUI,Switzerland
+11,ZZX,Mixed Team
+12,NED,Netherlands
+13,BEL,Belgium
+14,IND,India
+15,CAN,Canada
+16,BOH,Bohemia
+17,SWE,Sweden
+18,NOR,Norway
+19,ESP,Spain
+20,ITA,Italy
+21,CUB,Cuba
+22,ANZ,Australasia
+23,RSA,South Africa
+24,FIN,Finland
+25,RU1,Russian Empire
+26,EST,Estonia
+27,TCH,Czechoslovakia
+28,NZL,New Zealand
+29,BRA,Brazil
+30,JPN,Japan
+31,LUX,Luxembourg
+32,ARG,Argentina
+33,POL,Poland
+34,POR,Portugal
+35,URU,Uruguay
+36,YUG,Yugoslavia
+37,ROU,Romania
+38,HAI,Haiti
+39,EGY,Egypt
+40,PHI,Philippines
+41,IRL,Ireland
+42,CHI,Chile
+43,LAT,Latvia
+44,MEX,Mexico
+45,TUR,Turkey
+46,PAN,Panama
+47,JAM,Jamaica
+48,SRI,Sri Lanka
+49,KOR,South Korea
+50,PUR,Puerto Rico
+51,PER,Peru
+52,IRI,Iran
+53,TRI,Trinidad and Tobago
+54,URS,Soviet Union
+55,VEN,Venezuela
+56,BUL,Bulgaria
+57,LIB,Lebanon
+58,EUA,United Team of Germany
+59,ISL,Iceland
+60,PAK,Pakistan
+61,BAH,Bahamas
+62,BWI,West Indies Federation
+63,TPE,Taiwan
+64,ETH,Ethiopia
+65,MAR,Morocco
+66,GHA,Ghana
+67,IRQ,Iraq
+68,SIN,Singapore
+69,TUN,Tunisia
+70,KEN,Kenya
+71,NGR,Nigeria
+72,GDR,German Democratic Republic
+73,FRG,West Germany
+74,UGA,Uganda
+75,CMR,Cameroon
+76,MGL,Mongolia
+77,PRK,North Korea
+78,COL,Colombia
+79,NIG,Niger
+80,THA,Thailand
+81,BER,Bermuda
+82,TAN,Tanzania
+83,GUY,Guyana
+84,ZIM,Zimbabwe
+85,CHN,China
+86,CIV,Cote d'Ivoire
+87,ZAM,Zambia
+88,DOM,Dominican Republic
+89,ALG,Algeria
+90,SYR,Syria
+91,SUR,Suriname
+92,CRC,Costa Rica
+93,INA,Indonesia
+94,SEN,Senegal
+95,DJI,Djibouti
+96,AHO,Netherlands Antilles
+97,ISV,Virgin Islands
+98,EUN,Unified Team
+99,NAM,Namibia
+100,QAT,Qatar
+101,LTU,Lithuania
+102,MAS,Malaysia
+103,CRO,Croatia
+104,ISR,Israel
+105,SLO,Slovenia
+106,IOP,Independent Olympic Participants
+107,RUS,Russia
+108,UKR,Ukraine
+109,ECU,Ecuador
+110,BDI,Burundi
+111,MOZ,Mozambique
+112,CZE,Czech Republic
+113,BLR,Belarus
+114,TGA,Tonga
+115,KAZ,Kazakhstan
+116,UZB,Uzbekistan
+117,SVK,Slovakia
+118,MDA,Moldova
+119,GEO,Georgia
+120,HKG,Hong Kong
+121,ARM,Armenia
+122,AZE,Azerbaijan
+123,BAR,Barbados
+124,KSA,Saudi Arabia
+125,KGZ,Kyrgyzstan
+126,KUW,Kuwait
+127,VIE,Vietnam
+128,MKD,North Macedonia
+129,SCG,Serbia and Montenegro
+130,ERI,Eritrea
+131,PAR,Paraguay
+132,UAE,United Arab Emirates
+133,SRB,Serbia
+134,SUD,Sudan
+135,MRI,Mauritius
+136,TOG,Togo
+137,TJK,Tajikistan
+138,AFG,Afghanistan
